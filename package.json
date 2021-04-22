@@ -11,6 +11,8 @@
   "dependencies": {
     "node-fetch": "^2.6.1",
     "protractor": "^7.0.0",
-    "protractor-http-client": "^1.0.4"
+    "protractor-http-client": "^1.0.4",
+    "request": "^2.88.2",
+    "superagent": "^6.1.0"
   }
 }
